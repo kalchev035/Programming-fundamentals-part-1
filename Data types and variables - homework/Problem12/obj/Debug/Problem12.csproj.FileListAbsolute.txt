@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Data types and variables - homework\Problem12\bin\Debug\Problem12.exe.config
+D:\Documents\Softuni\Data types and variables - homework\Problem12\bin\Debug\Problem12.exe
+D:\Documents\Softuni\Data types and variables - homework\Problem12\bin\Debug\Problem12.pdb
+D:\Documents\Softuni\Data types and variables - homework\Problem12\obj\Debug\Problem12.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\Data types and variables - homework\Problem12\obj\Debug\Problem12.exe
+D:\Documents\Softuni\Data types and variables - homework\Problem12\obj\Debug\Problem12.pdb

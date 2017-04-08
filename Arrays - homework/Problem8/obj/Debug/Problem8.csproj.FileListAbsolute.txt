@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Arrays - homework\Problem8\bin\Debug\Problem8.exe.config
+D:\Documents\Softuni\Arrays - homework\Problem8\bin\Debug\Problem8.exe
+D:\Documents\Softuni\Arrays - homework\Problem8\bin\Debug\Problem8.pdb
+D:\Documents\Softuni\Arrays - homework\Problem8\obj\Debug\Problem8.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\Arrays - homework\Problem8\obj\Debug\Problem8.exe
+D:\Documents\Softuni\Arrays - homework\Problem8\obj\Debug\Problem8.pdb

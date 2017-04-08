@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Arrays - homework\Problem10\bin\Debug\Problem10.exe.config
+D:\Documents\Softuni\Arrays - homework\Problem10\bin\Debug\Problem10.exe
+D:\Documents\Softuni\Arrays - homework\Problem10\bin\Debug\Problem10.pdb
+D:\Documents\Softuni\Arrays - homework\Problem10\obj\Debug\Problem10.exe
+D:\Documents\Softuni\Arrays - homework\Problem10\obj\Debug\Problem10.pdb

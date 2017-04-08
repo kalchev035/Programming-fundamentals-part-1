@@ -1,0 +1,6 @@
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\bin\Debug\Problem14.exe.config
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\bin\Debug\Problem14.exe
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\bin\Debug\Problem14.pdb
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\obj\Debug\Problem14.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\obj\Debug\Problem14.exe
+D:\Documents\Softuni\Methods and debugging - homework\Problem14\obj\Debug\Problem14.pdb

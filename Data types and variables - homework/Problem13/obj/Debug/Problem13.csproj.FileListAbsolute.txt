@@ -1,0 +1,5 @@
+D:\Documents\Softuni\Data types and variables - homework\Problem13\bin\Debug\Problem13.exe.config
+D:\Documents\Softuni\Data types and variables - homework\Problem13\bin\Debug\Problem13.exe
+D:\Documents\Softuni\Data types and variables - homework\Problem13\bin\Debug\Problem13.pdb
+D:\Documents\Softuni\Data types and variables - homework\Problem13\obj\Debug\Problem13.exe
+D:\Documents\Softuni\Data types and variables - homework\Problem13\obj\Debug\Problem13.pdb
